@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: io.github.jdweeks
+testFramework: spock
+sourceLanguage: java
+buildTool: gradle
+features: [annotation-api, app-name, asciidoctor, docker, file-watch, graalvm, gradle, http-client, java, java-application, jib, kubernetes, logback, management, micrometer, micrometer-prometheus, netty-server, properties, readme, spock, tracing-jaeger]
